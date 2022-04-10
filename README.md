@@ -5,16 +5,16 @@
 
  ## Windows
  Download archive, unzip it and run `*.exe` file inside. <br> 
- Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/tag/v0.1/download/HelpUkraine-0.1.zip)
+ Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/latest/download/HelpUkraine-0.1.zip)
 
  ## Android
  Download `*.apk` file, install on your smartphone and enjoy<br>
- Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/tag/v0.1/download/HelpUkraine-0.1.apk)
+ Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/latest/download/HelpUkraine-0.1.apk)
 
  ## MacOS
  Download file - open.<br>
  In case if it's not opening, go to `System Preferences -> Privacy & Security`, here you'll name of app and button 'Open anyway'. Click it.
- Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/tag/v0.1/download/HelpUkraine-0.1.MacOS.zip)
+ Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/latest/download/HelpUkraine-0.1.MacOS.zip)
 
 ### Screenshot
  ![](/Screenshots/photo_2022-04-11_00-27-46.jpg)
