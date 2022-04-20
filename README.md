@@ -15,7 +15,7 @@
 
  ## MacOS
  Download file - open.<br>
- In case if it's not opening, go to `System Preferences -> Privacy & Security`, here you'll name of app and button 'Open anyway'. Click it.
+ In case if it's not opening, go to `System Preferences -> Privacy & Security`, here you'll name of app and button 'Open anyway'. Click it.<br>
  Version 0.1 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/download/v0.1/HelpUkraine-0.1.MacOS.zip)<br>
  Version 0.2 - [Download](https://github.com/egorlw26/Help-Ukraine-Game-Builds/releases/download/v0.2/HelpUkraine-0.2.MacOs.zip)
 
